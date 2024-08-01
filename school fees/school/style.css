@@ -1,0 +1,93 @@
+#orchard{
+display: inline-block;
+}
+#orchardbuilding{
+    display: inline-block;
+}
+#about{
+    display: inline-block;
+    width: 1000px;
+    text-align: justify;
+}
+#heading{
+    background-color: rgb(188, 143, 168);
+    text-align: center;
+    border: solid black;
+    text-shadow: 50px 50px 50px;
+    box-shadow: 50px 50px 50px;
+    color: grey;
+    border-radius: 30px;
+    position: sticky;
+    top: 0px;
+    }
+#facilities{
+    background-color: rgb(188, 143, 168);
+text-align: center;
+border: solid black;
+text-shadow: 50px 50px 50px;
+box-shadow: 50px 50px 50px;
+color: grey;
+border-radius: 30px;
+position: sticky;
+top: 0px;
+}
+#fac1{
+    width: 15%;height: 10%;
+    position: relative;
+left: 300px;
+z-index: 6;
+}
+#fac2{
+    width: 13%;height: 6%;
+    position: relative;
+    left: 250px;
+    z-index: 7;
+}
+#fac3{width: 15%;height: 10%;
+    position: relative;
+left: 200px;
+z-index: 10;
+ }
+#fac4{width: 15%;height: 10%;
+    position: relative;
+left: 140px;
+z-index: 9;
+}
+#fac5{width: 15%;height: 10%;
+    position: relative;
+ left: 100px;
+ z-index: 8;
+}
+#facility{
+    display: inline-block;
+    text-align: center;
+    font-style: oblique;
+}
+#fees{
+    background-color: rgb(188, 143, 168);
+text-align: center;
+border: solid black;
+text-shadow: 50px 50px 50px;
+box-shadow: 50px 50px 50px;
+color: grey;
+border-radius: 30px;
+position: sticky;
+top: 0px;
+}
+table{
+    border: 2px solid black;
+    border-radius: 10px;
+    border-collapse: separate;
+    padding: 20px;
+
+}
+td{
+    border: 2px solid black;
+    border-radius: 10px;
+    border-collapse: separate;
+    padding: 20px;
+    
+}
+#table{
+    display: inline-block;
+}
